@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhiu-din/CI-CD-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhiu-din/CI-CD-practice/issues"
+  },
+  "homepage": "https://github.com/muhiu-din/CI-CD-practice#readme",
+  "devDependencies": {
+    "@types/express": "github:types/express"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "description": ""
+}
